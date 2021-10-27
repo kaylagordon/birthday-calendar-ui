@@ -6,17 +6,12 @@ This application was built with `create-react-app`.
 
 ### Set Up
 
-Clone down this repo.
-
-On GitHub, create a new, empty, **private** repository and name it something like 'turing-birthdays-fe'.
-
-By the end of the assessment, update the current remote (origin) and point it at the new URL of the repository you just created on GitHub. You can read how to do this [here](https://help.github.com/en/articles/changing-a-remotes-url). Once you've updated the remote, you should be able to push up to that repo after you have at least one commit.
-
-Run `npm install` to install dependencies for the repo.
-
-Run `npm start` to start up your React server.
-
-Run `npm run cypress` to start up the Cypress testing server.
+1. Clone down this repo.
+2. On GitHub, create a new, empty, **private** repository and name it something like 'turing-birthdays-fe'.
+3. By the end of the assessment, update the current remote (origin) and point it at the new URL of the repository you just created on GitHub. You can read how to do this [here](https://help.github.com/en/articles/changing-a-remotes-url). (Hint: Remove the current remote repository, then add the new one.) Once you've updated the remote, you should be able to push up to that repo after you have at least one commit.
+4. Run `npm install` to install dependencies for the repo.
+5. Run `npm start` to start up your React server.
+6. Run `npm run cypress` to start up the Cypress testing server.
 
 ### Expectations / Rules
 
