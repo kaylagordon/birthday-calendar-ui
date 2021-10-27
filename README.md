@@ -11,7 +11,6 @@ This application was built with `create-react-app`.
 3. By the end of the assessment, update the current remote (origin) and point it at the new URL of the repository you just created on GitHub. You can read how to do this [here](https://help.github.com/en/articles/changing-a-remotes-url). (Hint: Remove the current remote repository, then add the new one.) Once you've updated the remote, you should be able to push up to that repo after you have at least one commit.
 4. Run `npm install` to install dependencies for the repo.
 5. Run `npm start` to start up your React server.
-6. Run `npm run cypress` to start up the Cypress testing server.
 
 ### Expectations
 
@@ -30,6 +29,8 @@ We do want to see good commit habits - atomic commits that log small, focused ch
 Pull down the [API repo](https://github.com/turingschool-examples/birthday-calendar-api). Set up instructions are in that repository's README.
 
 Do *not* nest this inside your front-end repository.
+
+Run `node server.js` to start up the server.
 
 ### Iteration 1
 
@@ -53,6 +54,8 @@ Now that the functionality is there for adding a birthday, write some tests:
 * Write tests covering what should be displayed on the page when the user first visits.
 * Write a test that checks that when data is put into the form, the value is reflected in that form input.
 * Write a test to check the user flow of adding a new birthday to the page.
+
+Run `npm run cypress` to start up the Cypress testing server.
 
 ### Iteration 4 (extension)
 
