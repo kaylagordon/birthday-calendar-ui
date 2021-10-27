@@ -30,8 +30,6 @@ Pull down the [API repo](https://github.com/turingschool-examples/birthday-calen
 
 Do *not* nest this inside your front-end repository.
 
-Run `node server.js` to start up the server.
-
 ### Iteration 1
 
 Get all existing birthdays on page load and display them on the DOM, with each birthday appearing in the correct month. If a month does not have any birthdays in it, it should say "No birthdays this month."
