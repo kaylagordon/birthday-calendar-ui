@@ -13,7 +13,7 @@ This application was built with `create-react-app`.
 5. Run `npm start` to start up your React server.
 6. Run `npm run cypress` to start up the Cypress testing server.
 
-### Expectations / Rules
+### Expectations
 
 Build a React App that displays the birthdays of the Turing community!
 
