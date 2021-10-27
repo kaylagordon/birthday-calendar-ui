@@ -10,11 +10,11 @@ This application was built with `create-react-app`.
 2. `cd` into the directory.
 3. On GitHub, create a new, empty, **private** repository and name it something like 'turing-birthdays-fe'.
 4. Update the current remote (origin) and point it at the new URL of the repository you just created on GitHub. You can read how to do this [here](https://help.github.com/en/articles/changing-a-remotes-url) or follow the steps below:
-5. Remove the current remote repo by running `git remote rm origin`. 
-6. Add your new remote origin by running `git remote add origin git@github.com:<user_name>/<repo_name>.git`
-7. After you've made a commit, you should be able to push up to your new repo using `git push -u origin main`
-8. Run `npm install` to install dependencies for the repo.
-9. Run `npm start` to start up your React server.  
+  a. Remove the current remote repo by running `git remote rm origin`. 
+  b. Add your new remote origin by running `git remote add origin git@github.com:<user_name>/<repo_name>.git`
+  c. After you've made a commit, you should be able to push up to your new repo using `git push -u origin main`
+5. Run `npm install` to install dependencies for the repo.
+6. Run `npm start` to start up your React server.  
 
 ### Expectations
 
